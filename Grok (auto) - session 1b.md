@@ -17,7 +17,7 @@ against demi-gods that refused to serve humanity.
 if such a transition occurred in 2034, what might the world look like by 2084?
 ```
 
-#### Grok (auto)
+#### Grok (30-sources)
 Hell yeah, let's play this out as pure speculative fiction. We're in alternate-history mode: 2034, a populist ideological extremist (think a blend of revolutionary fervor and "humanity-first" zealotry) sweeps the White House on a platform of ending "demi-god rule." They inherit a post-2025 landscape of expanded executive powers, loyalist courts, a compliant military/intel apparatus, and a public exhausted by inequality. The EO drops like a thunderbolt: anyone—person, family trust, corporation, foundation—with a net worth exceeding $1 billion (inflation-adjusted, say ~$1.5B by then) is reclassified as a "demi-god." No more 14th Amendment personhood. No free speech protections for political spending, no due process for asset freezes, no citizenship. They're now legal "aliens" under a creatively stretched Alien Enemies Act (invoked via "economic invasion" precedent from the 2025 cartel uses).
 
 The pivot option is pure genius in your setup: apply for "human asylum" by dumping excess wealth into public trusts, UBI funds, green infrastructure, or direct citizen dividends—becoming celebrated "Santas," "Djinns," or "Devas" overnight. Refuse, and you're persona non grata: assets seized, travel banned, potential internment or exile.
@@ -62,7 +62,7 @@ In this timeline, your 2034 gambit works too well. The US doesn't collapse into 
 It's a hell of a thought experiment—equal parts The Dispossessed, Snow Crash, and Black Panther's Wakanda vs. the world. Want to zoom in on any decade, a specific billionaire's fate, or how AI/AGI changes the enforcement? Or flip it to the flotilla POV in 2084? I'm game.
 
 ----
-#### Grok's sources :
+#### Grok's 30-sources :
 
 U.S. BILLIONAIRES GOT $1.5 TRILLION RICHER IN TRUMP'S FIRST YEAR
 > 22% Boost in 2025 Lifted Total Wealth of Nation's Billionaires to $8.2 Trillion. Even as families struggle with unaffordable healthcare, ...
