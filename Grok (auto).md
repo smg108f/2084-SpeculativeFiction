@@ -100,8 +100,46 @@ Regarding your 6-vs.-530 framing (roughly the number of "people-powered" success
 
 This isn't proof of balance—it's evidence of a tilted table where variance (e.g., rare viral moments like AOC's 2018 upset) allows occasional underdog wins, but the structure ensures the wealthy "house" collects most pots. Reforms like small-donor matching (successful in places like Seattle, where participation jumped 5x, or Denver, where it lowered barriers for underrepresented candidates) could shift the odds by amplifying everyday voices without needing billionaire backers. Until then, the game's mechanics favor the high rollers, much like a casino that keeps the lights on by ensuring most walk away lighter.
 
+---
+#### Grok's 26s thought:
+Exploring legislative collusion
+- US laws lack direct protections against staged bills that feign concern for citizens while serving wealthy funders.
+- Key areas for potential laws include bribery, corruption, and ethics rules in Congress.
+- Searching for laws on congressional collusion in performative legislation.
 
+Searched web (15)
+> US laws against collusion between House and Senate for performative legislation
 
+Searched web (15)
+> protections in US law against Congress working against public interest in favor of wealthy donors
 
+Exploring legislative collusion
+- Campaign finance laws like Citizens United and DISCLOSE Act address wealthy donor influence in Congress.
+- No direct laws prohibit performative legislation or collusion for appearance, though anti-corruption and campaign finance rules offer indirect safeguards.
 
+Investigating honest services fraud
+- Honest services fraud could apply if legislation involves fraud, but it's hard to enforce against political theater.
 
+---
+#### Grok's 28s thought:
+Comparing political odds
+- Analogizes low voter wins against wealthy to a casino's 1.1% success rate, suggesting systemic pressure for change like in Vegas.
+
+Analyzing casino analogy
+- Notes casino "house" wins ~99% of time, implying politics is rigged against voters.
+
+Searching for data
+- Queries studies on U.S. congressional responsiveness to public opinion vs. donor interests.
+
+Searched web (15)
+> studies on U.S. congressional responsiveness to public opinion vs donor interests
+
+Searched web (10)
+> success rates of small-dollar funded candidates in U.S. elections
+
+Searched web (5)
+> average casino house edge and player win rates
+
+Querying casino stats
+
+Reviewing small donor trends
