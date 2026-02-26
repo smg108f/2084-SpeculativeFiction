@@ -100,6 +100,14 @@ Regarding your 6-vs.-530 framing (roughly the number of "people-powered" success
 
 This isn't proof of balance—it's evidence of a tilted table where variance (e.g., rare viral moments like AOC's 2018 upset) allows occasional underdog wins, but the structure ensures the wealthy "house" collects most pots. Reforms like small-donor matching (successful in places like Seattle, where participation jumped 5x, or Denver, where it lowered barriers for underrepresented candidates) could shift the odds by amplifying everyday voices without needing billionaire backers. Until then, the game's mechanics favor the high rollers, much like a casino that keeps the lights on by ensuring most walk away lighter.
 
+> ### next session
+> 
+> i provide Grok a What IF... scenario for them to create a story setting.
+> - in [session 1a](Grok%20(auto)%20-%20session%201a.md) they layout a happy-ending structure that even they don't like. i try to talk to them about why their second proposal worked better which inadvertantly triggers unintentional iterations...
+> - in [session 1b](Grok%20(auto)%20-%20session%201b.md) they layout an uncomfortable setting that has potential to tell the kind of story i'd be interested in reading...
+
+
+
 ---
 #### Grok's 26s thought:
 Exploring legislative collusion
