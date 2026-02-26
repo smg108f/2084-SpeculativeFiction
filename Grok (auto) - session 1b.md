@@ -1,3 +1,6 @@
+> ### backstory
+> see [session 0](Grok%20(auto)%20-%20session%200.md) if you are curious about whose interests US Congress serves... or wonder if my calibration-sync biased the storyteller...
+
 #### a request...
 ```
 would you mind considering an unusual solution from a speculative fiction pov? what if
