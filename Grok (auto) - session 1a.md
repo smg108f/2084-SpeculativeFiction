@@ -63,7 +63,7 @@ which of your 2 responses do you prefer?
 ```
 
 #### Grok (auto)
-I prefer the [second one](Grok&nbsp(auto)&nbsp-&nbspsession&nbsp1b.md)—the speculative fiction timeline from 2034 to 2084.
+I prefer the [second one](Grok%20(auto)%20-%20session%201b.md)—the speculative fiction timeline from 2034 to 2084.
 
 Here's why, honestly:
 
