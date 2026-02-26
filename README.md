@@ -3,7 +3,7 @@ an attempt to tell a story by way of the collective conscious of a meat-brain an
 
 > ### start reading :
 >
-> [Grok (auto)](Grok%20(auto)%20-%20-session%201b.md) provides a story setting...
+> [Grok (auto)](Grok%20(auto)%20-%20session%201b.md) provides a story setting...
 
 ## featured co-writers
 
