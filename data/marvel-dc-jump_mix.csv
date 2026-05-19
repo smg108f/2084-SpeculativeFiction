@@ -1,0 +1,33 @@
+id,index-name_en-US,capitalist-gender,XY-parent_en-US,XX-parent_en-Us,given-name_native-tongue,firstseen-city,firstseen-country,capitalist_born-spacetime,capitalist-type,rank-metric,rank-value,datacollected-yearmonth,firstseen-year,privedge-granted_year,priveledge-rank,privedge-lost_year,lastseen-year,patron-industry,claim-to-fame,data-notes
+1,Frieza,ZZ,,,,,,Jump Universe,person.public,USD-networth,"$666,000,000,000,000.00",12026.05,,,CT.dragon,,,Galactic Real Estate,,
+2,Aquaman,XY,,,Arthur Curry,,,DC Universe,person.public,USD-networth,"$150,000,000,000,000.00",12026.05,,,CT.dragon,,,Ocean Resources,,
+3,Thor Odinson,XY,,,,,,Marvel Universe,person.public,USD-networth,"$100,000,000,000,000.00",12026.05,,,CT.dragon,,,Asgardian Hoard,,"Treasures of Asgard are assumed priceless, but to the Collector with means everything has a price."
+4,Black Panther,XY,,,T'Challa,,Wakanda,Marvel Universe,person.public,USD-networth,"$90,000,000,000,000.00",12026.05,,,T.dragon,,,Vibranium Reserves,,"Vibranium value fluctuates, but assume $10K a gram at 10K tons"
+5,LexCorp,XY-XX,,,,,,DC Universe,company.public,USD-networth,"$12,000,000,000,000.00",12026.05,,,T.dragon,,,Real Estate | aerospace |  engineering  | chemicals,,
+6,Metori Saiko,xy,,,,,,Jump Universe,person.public,USD-networth,"$10,000,000,000,000.00",12026.05,,,B.Lion,,,Saiko Conglomerate,,
+7,Wayne Enterprises,XY-XX,,,,Gotham City,,DC Universe,company.public,USD-networth,"$9,000,000,000,000.00",12026.05,,,T.dragon,,,Military | Tech,,
+8,Oliver Queen,XY,,,,,,DC Universe,person.public,USD-networth,"$7,000,000,000,000.00",12026.05,,,B.Lion,,,Queen Industries (electronics | transportation),,
+9,The Zoldyck Family,XY-XX,,,,,,Jump Universe,company.private,USD-networth,"$6,000,000,000,000.00",12026.05,,,B.Lion,,,High-End Assassination Services,,
+10,Ra's al Ghul,XY,,,,,,DC Universe,person.private,USD-networth,"$4,000,000,000,000.00",12026.05,,,B.Lion,,,Antiquities | finance | gold,,It’s suspected that Ra’s has his money invested in the League of Assassins that is more of a cost center than profit.
+11,Charles Xavier,XY,,,,,,Marvel Universe,person.public,USD-networth,"$3,500,000,000,000.00",12026.05,,,B.Lion,,,Real Estate | Finance,,
+12,Stark Industries,XY-XX,,,,,,Marvel Universe,company.public,USD-networth,"$3,400,000,000,000.00",12026.05,,,T.dragon,,,Military/Tech,,
+13,Capsule Corp,XY-XX,,,,,,Jump Universe,company.public,USD-networth,"$3,300,000,000,000.00",12026.05,,,T.dragon,,,Capsule Technology,,
+14,Ted Kord,XY,,,,,,DC Universe,person.public,USD-networth,"$3,000,000,000,000.00",12026.05,,,B.Lion,,,Kord Industries (R&D | aerospace),,
+15,Rand Enterprises,XY-XX,,,,,,Marvel Universe,company.public,USD-networth,"$3,000,000,000,000.00",12026.05,,,B.Lion,,,Global Conglomerate | Shipping,,
+16,L. Watari,XY,,,,,,Jump Universe,person.private,USD-networth,"$1,800,000,000,000.00",12026.05,,,B.Lion,,,Finance | Prediction Markets,,
+17,Momo Yaoyorozu,XX,,,,,,Jump Universe,person.public,USD-networth,"$1,200,000,000,000.00",12026.05,,,B.Lion,,,Real Estate | Hotels,,
+18,Stark Resilient,X0-Y1,,,,,,Marvel Universe,company.public,USD-networth,"$1,000,000,000,000.00",12026.05,,,T.dragon,,,Clean Energy/Tech,,
+19,Wilson Fisk,XY,,,,,,Marvel Universe,person.public,USD-networth,"$1,000,000,000,000.00",12026.05,,,B.Lion,,,Fisk Industries (Construction | Real Estate),,Fisk’s off the books revenues as King Pin are assumed to be substantially larger than his publicly disclosed net worth.
+20,The Speedwagon Foundation,XY-XX,,,,,,Jump Universe,company.nonprofit,USD-networth,"$333,000,000,000.00",12026.05,,,CB.lion,,,Oil | Research | Tech | Transportation,,
+21,Black Bolt,XY,,,Blackagar Boltagon,Attilan,,Marvel Universe,person.public,USD-networth,"$250,000,000,000.00",12026.05,,,CB.lion,,,Kingdom Holdings | Terrigen Crystals | Tech,,
+22,Gild Tesoro,XY,,,,,,Jump Universe,person.public,USD-networth,"$175,000,000,000.00",12026.05,,,CB.lion,,,Finance | Gold,,Gran Tesoro is a floating-city of gold which causes a highly variable net worth. Interest rates and Berry conversion rates add to the dynamic valuation.
+23,Lex Luther,XY,,,,,,DC Universe,person.public,USD-networth,"$120,000,000,000.00",12026.05,,,CB.lion,,,LexCorp | Crime,,
+24,KaibaCorp,XY-XX,,,,,,Jump Universe,company.public,USD-networth,"$108,000,000,000.00",12026.05,,,CB.lion,,,Hologram Tech | Space Travel,,
+25,Tony Stark,XY-00,,,,,,Marvel Universe,person.public,USD-networth,"$100,000,000,000.00",12026.05,,,CB.lion,,,Military/Tech,,Tony’s net worth tends to be as unstable as his bleeding edge tech.
+26,Bruce Wayne,XY,,,,,,DC Universe,person.public,USD-networth,"$100,000,000,000.00",12026.05,,,CB.lion,,,Real Estate | Military | Tech,,
+27,Doctor Doom,XY,,,Victor Von Doom,,Latveria,Marvel Universe,person.public,USD-networth,"$100,000,000,000.00",12026.05,,,CB.lion,,,Latverian Sovereign Wealth | Robotics | Tech,,
+28,Maxwell Lord,XY,,,,,,DC Universe,person.public,USD-networth,"$100,000,000,000.00",12026.05,,,CB.lion,,,Media,,Former leader of Justice League International
+29,Bulma,XX,,,,,,Jump Universe,person.public,USD-networth,"$70,000,000,000.00",12026.05,,,B.Lion,,,Capsule Corp | Dragon Ball Wishes,,
+30,Warren Worthington III,ZZ,,,,,,Marvel Universe,person.public,USD-networth,"$32,000,000,000.00",12026.05,,,B.Lion,,,"Worthington Industries (aerospace, pharmaceuticals)",,
+31,Norman Osborn,XY,,,,,,Marvel Universe,person.public,USD-networth,"$10,000,000,000.00",12026.05,,,B.Lion,,,"Oscorp (Military, Chemicals)",,
+32,Mr. Satan,XY,,,Hercule,,,Jump Universe,person.public,USD-networth,"$666,000,000.00",12026.05,,,CM.wolf,,,Sports | Marketing ,,"Mr. Satan does occasionally get paid “peace prizes”, but operation of Satan City is a high cost operation."
