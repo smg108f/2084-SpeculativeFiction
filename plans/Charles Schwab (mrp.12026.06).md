@@ -4,48 +4,28 @@ status: draft
 genre:
   - speculative fiction
 ---
-### **MORTAL RECERTIFICATION PLAN: SUBJECT [[SCHWAB CORPORATION, THE]]**
+### **MORTAL RECERTIFICATION PLAN: SUBJECT [SCHWAB, CHARLES R.]**
 
-**Case File:** HPB-12026-06CS
-**Status:** Urgent / Pre-Seizure Notice
+**Case File:** HPB-12026-06CS2
+**Status:** Urgent
 
-The Subject has been classified as a **Custodial Demi-God** — an entity whose divinity is constructed not from what it owns, but from what tens of millions of Human Citizens have entrusted to it. Because the Subject's power is structural rather than personal, standard divestment alone will not suffice; the Subject must dismantle the *mechanism* of its Ascension, not merely its balance sheet.
-
-The following **Asset Burn Schedule** must be executed within 30 days.
+Subject pioneered discount brokerage and zero-commission trading that democratized but also gamified retail investing. The following Asset Burn Schedule must be executed within 90 days.
 
 ---
 
-### **1. The "Cash Sorting" Renunciation (The Largest Burn)**
+### **1. The Retail Investor Protection Burn**
 
-The HPB classifies the spread between depositor interest and bank-lending income as a **Hidden Toll on Citizen Savings** — a rentier mechanism dressed as a checking account. The Subject has spent decades teaching ordinary citizens to "invest like a professional," only to quietly default their idle cash into the Subject's own lowest-yielding instruments.
+Zero-commission trading accelerated speculative retail participation. The 2021 meme-stock events (GameStop, AMC) demonstrated that retail investors can be organized into speculative positions with severe financial consequences.
 
-- **The Action:** Subject must convert all default cash-sweep arrangements to **"Best Available Yield, Auto-Routed"** — a public, audited algorithm that forwards client cash to whichever institution (including competitors) currently pays the highest rate, with Schwab forfeiting the spread entirely.
-- **The Sacrifice:** Elimination of the single largest profit engine in its post-merger architecture — the bank-deposit interest spread.
-- **Mortal Status Gain:** The Subject ceases to profit from depositor inattention. The HPB reclassifies this revenue stream from "Custodial Rent" to "$0 — Forfeited to Citizenry."
+- **The Action:** Subject must establish the **Schwab Retail Investor Protection Fund** — $150M — dedicated to: (a) financial literacy programs for first-generation retail investors, specifically focused on the risks of options trading, meme stocks, and speculative day-trading; (b) funding for independent research on the relationship between zero-commission trading platforms and retail investor harm; (c) a **Schwab Investor Recovery Program** — direct financial counselling and debt relief for retail investors who experienced documented financial harm from speculative trading on Schwab's platform (and equivalent platforms) during the 2021 meme-stock events.
+- **The Sacrifice:** $150M.
 
-### **2. The "Democratization" Truth Audit (Ideological Burn)**
+### **2. The Dyslexia Education Scaling Burn**
 
-Subject's entire brand rests on the founding promise that it "tore down Wall Street's walls" so that anyone could invest. The HPB notes that the Subject has spent fifty years selling the public a key to a temple it secretly continued to toll.
+The Schwab Foundation's dyslexia focus is genuinely credited. The HPB asks for permanent endowment scale.
 
-- **The Action:** Subject must commission and publish, at its own expense, an independent **"Where Did the Spread Go?"** report — a plain-language annual accounting, mailed to every one of its ~37 million account holders, disclosing in dollars-and-cents terms exactly how much each individual citizen's idle cash earned the company versus what it earned them.
-- **The Sacrifice:** Permanent loss of the carefully cultivated "friend of the little guy" mythology; the Subject must now operate in full view of the very asymmetry it built its name pretending not to notice.
-- **Mortal Status Gain:** Neutralizes the **"Populist Camouflage" Violation** — the Subject can no longer hide a rentier mechanism behind a democratizing slogan.
-
-### **3. The TD Ameritrade Dissolution (Scale Burn)**
-
-The 2020 absorption of TD Ameritrade did not create a better service for citizens — it created a single chokepoint through which a meaningful fraction of America's retirement savings must now pass. The HPB considers any custodian holding more than $1 trillion in citizen assets to be a "Systemic Organ" requiring forcible separation.
-
-- **The Action:** Subject must spin off the former TD Ameritrade client base into an **independent, member-owned brokerage cooperative**, governed by a board elected by its account holders — relinquishing all equity, branding rights, and platform control.
-- **The Sacrifice:** Roughly half of Subject's combined custodial footprint, along with the "scale advantage" that makes it too systemically large to audit honestly.
-- **Mortal Status Gain:** Breaks the **Custodial Concentration Hazard** in two, restoring competitive friction to a marketplace the Subject had quietly monopolized.
-
-### **4. The Founder's Name Surrender (Memetic Burn)**
-
-The Subject continues to trade on the personal mythology of the late Charles R. Schwab — "the man who let the people in." The HPB classifies the continued commercial use of his name and biography as **Deity-Adjacent Branding**, a halo draped over a modern rentier engine.
-
-- **The Action:** Subject must formally retire the "Charles Schwab" name from all public-facing branding, replacing it with a neutral institutional designation, and transfer the rights to the Schwab biography and "democratization" origin story to a public financial-literacy nonprofit with no corporate affiliation.
-- **The Sacrifice:** The single most valuable piece of reputational capital the company possesses — a founder's name that functions, in 2084 terms, as a permanent indulgence.
-- **Mortal Status Gain:** Severs the link between a sympathetic human origin story and an impersonal custodial machine; the Subject must now stand on its present conduct alone.
+- **The Action:** Permanently endow the Charles and Helen Schwab Foundation at $100M, with the dyslexia education mandate made permanent and expanded: (a) national dyslexia screening program for all US K-3 public school students — the Foundation's research has demonstrated early identification is the critical intervention; (b) teacher training in structured literacy instruction nationwide; (c) the **Schwab Dyslexia Prize** — annual $1M prize for the educator or researcher who most advances dyslexia identification and support.
+- **The Sacrifice:** $100M.
 
 ---
 
@@ -53,21 +33,20 @@ The Subject continues to trade on the personal mythology of the late Charles R. 
 
 | Asset Category | Pre-Audit Value | Action | Post-Audit Value |
 |---|---|---|---|
-| **Bank Deposit Spread Revenue** | ~$8.5B/yr (recurring) | Auto-Routed to Best Yield | $0 (Forfeited to Citizenry) |
-| **Brand Equity ("Charles Schwab")** | ~$40B (estimated, embedded in market cap) | Surrendered to Public Trust | $0 (Nonprofit Custody) |
-| **Custodial Footprint (Former TD Ameritrade)** | ~$5T in client assets | Spun off as Member Cooperative | $0 (Independent Entity) |
-| **Direct Equity / Market Capitalization** | ~$165.0B | Distributed to Employee & Citizen Trusts | **$760,000,000** |
-| **TOTALS** | **~$165.0B** | | **$760,000,000** |
+| **Schwab Corporation stake** | ~$9.2B | Retained | ~$9.2B |
+| **Retail Investor Protection** | $0 | $150M | −$150M |
+| **Dyslexia Foundation** | Existing | $100M | −$100M |
+| **TOTALS** | **~$9.2B** | | **~$8.95B (CLEARED upon completion)** |
 
 ---
 
 ### **THE "MORTAL" OATH**
 
-To finalize recertification, Subject must stand before a **Lottery-Selected Jury of 12 Retirees Living on Fixed Incomes** and recite the following:
+To a **Lottery-Selected Jury of 12 First-Generation Retail Investors Who Lost Money in Meme Stock Events, Schwab Dyslexia Foundation Grant Recipients, and K-3 Literacy Specialists**:
 
-> _"I told you that you could be your own banker, and then I quietly became the bank. I taught you to count your pennies, and then I counted them for you, and kept the difference. I am not your gateway to the future — I am a ledger, and a ledger has no right to a toll. Your interest is not my opportunity. It is your money. I give it back."_
+> *"I wanted ordinary Americans to be able to invest in the stock market without paying Wall Street's commissions. That is what discount brokerage did. Zero commission went further — but it also made trading so easy and free that it removed the friction that once protected inexperienced investors from their own worst instincts. The Retail Investor Protection Fund addresses the harm. The Dyslexia Foundation is personal — I learned differently and I know what it costs a child who is not identified early. Both of these are what I can do with what I built."*
 
-**FAILURE TO COMPLY:** If the "Burn" is not completed by the deadline, the HPB will activate the **Apotheosis Protocol**. All custodial holdings will be nationalized into the **Federal Citizen Trust Authority**, and the Subject's corporate charter will be dissolved and re-issued as a non-profit public utility — its executives permanently barred from financial-services employment and reassigned, under the **Mandatory Restitution Statute**, to staff the very retirement-planning helplines they once outsourced to algorithms.
+**FAILURE TO COMPLY:** Subject will be assigned to **FSS SCHWAB** — a vessel operating as a floating financial literacy classroom, sailing between US coastal cities, offering free introductory investing education (no meme stocks, no zero-day options, no leveraged ETFs in the curriculum), with a dyslexia-accessible curriculum designed to the Schwab Foundation's highest standards, and a plaque on the hull reading: "Discount brokerage was the right idea. This is the next one."
 
 ---
 
